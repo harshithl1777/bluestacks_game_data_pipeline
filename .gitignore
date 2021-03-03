@@ -1,0 +1,7 @@
+# Ignore CSV data files
+processed_data.csv
+raw_data.csv
+
+# Ignore Jupyter Notebook related items
+/.ipynb_checkpoints
+data_processor.ipynb
